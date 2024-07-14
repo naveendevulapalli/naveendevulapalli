@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveendevulapalli
-- 👀 I’m interested in CoreJava, Oracle, HTML, CSS, JavaScript
-- 🌱 I’m currently learning Advanced Java Topics
+- 👀 I’m interested in Java, Oracle, HTML, CSS, JavaScript, React
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
