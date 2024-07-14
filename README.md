@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @naveendevulapalli
-- 👀 I’m interested in Java, Oracle, HTML, CSS, JavaScript, React
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Oracle, HTML, CSS, JavaScript, ReactJS, Spring Boot.
+- 💞️ I’m looking to collaborate on Projects related to Full Stack Development.
+- 📫 How to reach me on naveendevulapalli19@gmail.com
 
 <!---
 naveendevulapalli/naveendevulapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
